@@ -3,12 +3,12 @@ This repository provides a Colab Notebook that shows how to use [Spatial Transfo
 
 Here's a demonstration:
 
-<center>
+<div align="center">
 <img src="Demo.gif"></img>
-</center>
+</div>
 
 Notice how the STN module is able to figure out transformations for the dataset that may be helpful to boost its performance. Here are the original images for reference:
 
-<center>
+<div align="center">
 <img src="https://i.ibb.co/1bQys44/image.png"></img>
-</center>
+</div>
