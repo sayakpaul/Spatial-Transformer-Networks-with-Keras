@@ -1,7 +1,7 @@
 # Spatial-Transformer-Networks-with-Keras
 
 <div align="center">
-<a href="https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayakpaul/Spatial-Transformer-Networks-with-Keras/blob/main/STN.ipynb">
+<a href="https://colab.research.google.com/github/sayakpaul/Spatial-Transformer-Networks-with-Keras/blob/main/STN.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 </div>
